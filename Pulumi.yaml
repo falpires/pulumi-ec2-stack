@@ -1,0 +1,6 @@
+name: pulumi-ec2-stack
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal AWS Python Pulumi to create three EC2's
